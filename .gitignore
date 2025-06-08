@@ -11,4 +11,4 @@ tickers.db
 # VSCode of andere IDE folders
 .vscode/
 .idea
-venv
+venv/
