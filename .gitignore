@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+
+# Env
+.env
+
+# DB
+tickers.db
+
+# VSCode of andere IDE folders
+.vscode/
+.idea
+
